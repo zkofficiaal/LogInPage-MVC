@@ -91,13 +91,5 @@ struct YourApp: App {
   file needs to change.
 - Wire `showForgotPasswordSheet`, `showPrivacySheet`, and `showTermsSheet`
   in `LoginView` to real content; they currently open placeholder sheets.
-
-## Note on MVC vs. MVVM
-
-This is the same feature previously implemented as MVVM — only the
-mediating layer was renamed and re-homed (`ViewModels/LoginViewModel.swift`
-→ `Controllers/LoginController.swift`). All state, validation, and
-behavior are unchanged; `Models/`, `Services/`, and every Component file
-are identical to the MVVM version.
-
+  
 ## Designed and Developed by M.Zahid Khan iOS Developer 
