@@ -1,5 +1,6 @@
 <img width="381" height="773" alt="Screenshot 2026-09-07 at 10 52 10 AM" src="https://github.com/user-attachments/assets/a98720df-4845-48b2-bf51-ad8b1c2e9249" />
 <img width="389" height="780" alt="Screenshot 2026-09-07 at 10 51 53 AM" src="https://github.com/user-attachments/assets/e9f2892f-23ab-459c-8a86-84207fbb3305" />
+
 # LoginFeature (MVC)
 
 A SwiftUI login/registration screen built with MVC, matching a neon-green
@@ -98,3 +99,5 @@ mediating layer was renamed and re-homed (`ViewModels/LoginViewModel.swift`
 → `Controllers/LoginController.swift`). All state, validation, and
 behavior are unchanged; `Models/`, `Services/`, and every Component file
 are identical to the MVVM version.
+
+## Designed and Developed by M.Zahid Khan iOS Developer 
